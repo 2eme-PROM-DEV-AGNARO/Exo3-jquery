@@ -1,0 +1,33 @@
+body{
+    background-color: lightblue;
+}
+form{
+    margin-left: 440px;
+    margin-top: 200px;
+}
+input{
+    width: 70px;
+    height: 35px;
+    border-radius: 5px;
+}
+#resoudre{
+    width: 80px;
+    height: 35px;
+    border-radius: 5px;
+}
+#solution{
+    width: 380px;
+    height: 100px;
+    margin-left: 440px;
+    margin-top: 80px;
+    border: 1px solid;
+    border-radius: 5px;
+}
+p{
+    color: red;
+    text-align: center;
+    font-weight: bold;
+}
+h1{
+    text-align: center;
+}
